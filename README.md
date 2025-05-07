@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Millenes2 (Millene Santos e Silva)
+- 👀 I’m interested in technology with social impact, accessibility, artificial intelligence and inclusive education
+- 🌱 I’m currently learning Python, C++, and the basics of artificial intelligence
+- 💞️ I’m looking to collaborate on projects that combine tech, innovation and positive impact
+- 📫 How to reach me: millenesantos.contato@gmail.com
+- ⚡ Fun fact: I play the cello, love crafts and once ran a small handmade jewelry business!
