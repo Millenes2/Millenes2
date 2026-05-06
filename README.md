@@ -30,14 +30,6 @@ A proposta é ajudar usuárias a entender melhor seu ciclo de forma simples e co
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Millenes2&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Millenes2&layout=compact&theme=tokyonight)
-
----
-
 ## ⚡ Sobre mim
 
 - 🎻 Toco violoncelo  
